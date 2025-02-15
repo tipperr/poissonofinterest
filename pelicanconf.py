@@ -6,7 +6,7 @@ PATH = "content"
 
 STATIC_PATHS = ['images', 'extras']
 
-THEME = 'themes/flex'
+THEME = 'themes/elegant'
 
 SITELOGO = "images/logo.jpg"
 
