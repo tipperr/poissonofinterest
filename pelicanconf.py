@@ -42,7 +42,10 @@ EXTRA_PATH_METADATA = {
 SOCIAL = (
     ("You can add links in your config file", "#"),
     ("Another social link", "#"),
+    ("Twitter", "https://x.com/PoissonInterest"), 
 )
+
+TWITTER_USERNAME = "PoissonInterest"
 
 DEFAULT_PAGINATION = False
 
