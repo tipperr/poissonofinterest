@@ -40,10 +40,13 @@ EXTRA_PATH_METADATA = {
 
 # Social widget
 SOCIAL = (
-    ("You can add links in your config file", "#"),
-    ("Another social link", "#"),
-    ("Twitter", "https://x.com/PoissonInterest"), 
+    #("You can add links in your config file", "#"),
+    #("Another social link", "#"),
+    ("twitter", "https://x.com/PoissonInterest"), 
 )
+
+COPYRIGHT_NAME = "Poisson of Interest. All rights reserved."
+COPYRIGHT_YEAR = 2025
 
 TWITTER_USERNAME = "PoissonInterest"
 
