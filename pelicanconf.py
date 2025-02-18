@@ -1,5 +1,5 @@
 AUTHOR = 'Siméon'
-SITENAME = 'Poisson of Interest'
+SITETITLE = 'Poisson of Interest'
 SITEURL = ""
 
 PATH = "content"
